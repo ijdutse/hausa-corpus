@@ -28,7 +28,12 @@ Because those websites used the formal version of the language, it will be usefu
 
 
 ###### Category II: Social Media Posts via APIs: 
-***Social media posts*** (from users engaging with the online posts on various social media platforms): this category consist of diverse users that interacts with the post from News Channel. The users' content and their relevant networks are used to collect further data for the analysis.
+***Social media posts*** (from users engaging with the online posts on various social media platforms): this category consist of diverse users that interacts with the post from News Channel. The users' content and their relevant networks are used to collect further data for the analysis. Social media platforms of interest include: 
+- TWITTER:
+    - Usernames-based data collection: this is based on using specific usernames to collect relevant data for analysis .
+- FACEBOOK: 
+- INSTAGRAM: 
+-  .... 
 
 
 to be continued .... 
