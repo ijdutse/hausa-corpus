@@ -1,0 +1,562 @@
+('https://www.bbc.com/hausa/live/labarai-55473268', ['lx-stream-post-body', None]) Visited: 2021-01-01 15:25:56
+
+('https://www.voahausa.com/a/sai-da-gwamnati-ta-biya-diyyar-daliban-kanka-kamun-aka-sako-su/5717020.html?withmediaplayer=1', ['wsw', None]) Visited: 2021-01-01 15:25:56
+
+('https://gidanlabarai.blogspot.com/', ['post-index-wrap', None]) Visited: 2021-01-01 15:25:56
+
+('https://www.isyaku.com/2020/12/abubuwan-da-suka-yi-tashe-shekarar-2020.html', ['post-body entry-content', 'post-body']) Visited: 2021-01-01 15:25:56
+
+('http://fasahar-intanet.blogspot.com/', ['MsoNormal', None]) Visited: 2021-01-01 15:25:56
+
+('http://fasahar-intanet.blogspot.com/search?updated-max=2013-02-13T11:40:00%2B01:00&max-results=4', ['MsoNormal', None]) Visited: 2021-01-01 15:25:56
+
+('http://nuriddeen.blogspot.com/', ['post-body entry-content', 'post-body-8823522567700746880']) Visited: 2021-01-01 15:25:56
+
+('http://kimiyyah.blogspot.com/', ['MsoNormal', None]) Visited: 2021-01-01 15:25:56
+
+('http://gidandabino.blogspot.com/', ['post-body entry-content', 'post-body-2337562651559053384']) Visited: 2021-01-01 15:25:56
+
+('http://fagenmarubuta.blogspot.com/', ['post-body entry-content', 'post-body-7286726209669310051']) Visited: 2021-01-01 15:25:56
+
+('http://harunaabubakarshika.blogspot.com/', ['MsoNormal', None]) Visited: 2021-01-01 15:25:56
+
+('http://munbarin-musulunci.blogspot.com/', ['post-body entry-content', 'post-body-5379971023398648104']) Visited: 2021-01-01 15:25:56
+
+('https://hausa.leadership.ng/bashin-nirsal-anya-talaka-na-da-rabo-a-ciki-kuwa/', ['content-inner', None]) Visited: 2021-01-01 15:25:56
+
+('http://ibrahim-sheme.blogspot.com/', ['post-body entry-content', 'post-body-6736297384032794364']) Visited: 2021-01-01 15:25:56
+
+('http://munbarin-musulunci.blogspot.com/2013/', ['post-body entry-content', 'post-body-2926079567711939012']) Visited: 2021-01-01 15:25:56
+
+('http://munbarin-musulunci.blogspot.com/2019/05/0036-hukunce-hukuncen-azumin-ramadan-3.html', ['post-body entry-content', 'post-body-5379971023398648104']) Visited: 2021-01-01 15:25:56
+
+('https://www.bbc.com/hausa/live/labarai-55505934', ['lx-stream-post-body', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.voahausa.com/a/biden-ya-kuduri-aniyar-yaki-da-covid-19-sosai/5718605.html', ['wsw', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.voahausa.com/a/hukumar-ceni-na-ci-gaba-da-tattara-sakamakon-zaben-nijar/5718489.html', ['wsw', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.voahausa.com/a/hukumomi-na-jaddada-bin-dokokin-kariya-daga-covid-19/5718292.html', ['wsw', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.voahausa.com/a/an-kafa-wata-sabuwar-kungiya-ta-farfado-da-martabar-arewacin-najeriya/5718504.html', ['wsw', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.voahausa.com/a/aiwatar-da-shirin-ruga-na-iya-rage-matsalar-tsaro-miyetti-allah/5720422.html', ['wsw', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.voahausa.com/a/isra-ila-ta-kai-farmaki-a-kusa-da-damascus-a-cewar-syria/5718622.html', ['wsw', None]) Visited: 2021-01-01 17:38:40
+
+('https://projects.voanews.com/adrift-african-diaspora/hausa/', ['slide-inner', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.voahausa.com/a/kasashe-da-kungiyoyi-na-cigaba-da-jawabai-da-kuma-tattaunawa-a-majalisar-dinkin-duniya-kan-batutuwa-iri-iri/2984204.html', ['wsw', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.voahausa.com/a/buhari-akan-taaddanci-a-najeriya/2985730.html', ['wsw', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.voahausa.com/a/kasashen-afrika-sun-ji-a-jikinsu-kan-bukatar-zaman-lafiya-da-wadata/2984710.html', ['wsw', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.voanews.com/MediaAssets2/projects/boko-haram/index_ha.html', ['slide slide-text', 'slide1']) Visited: 2021-01-01 17:38:40
+
+('https://www.voahausa.com/a/akwai-sojojin-najeriya-a-boko-haram---inji-sojan-najeriya/1884839.html', ['wsw', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.voahausa.com/a/shugaba-buhari-a-kan-harkokin-tsaro/2804421.html', ['wsw', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.voahausa.com/a/baiwa-kananan-hukumomi-yanci-ne-zai-inganta-rayuwar-talakawa-inji-ibrahim-khalil/2805500.html', ['wsw', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.voahausa.com/a/soja-na-biyu-ya-fito-danyen-mangwaro-muke-sha/1888068.html', ['wsw', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.voahausa.com/a/an-gudanar-da-tarukan-goyon-bayan-trump-da-zarginsa-na-magudin-zabe/5663243.html', ['wsw', None]) Visited: 2021-01-01 17:38:40
+
+('http://fasahar-intanet.blogspot.com/2013/', ['MsoNormal', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.isyaku.com/2020/12/dakarun-sojin-najeriya-za-su-sauya.html', ['post-body entry-content', 'post-body']) Visited: 2021-01-01 17:38:40
+
+('http://nuriddeen.blogspot.com/', ['post-body entry-content', 'post-body-5342768154658588564']) Visited: 2021-01-01 17:38:40
+
+('https://gidanlabarai.blogspot.com/2018/08/captain-ahmad-junaid-complete-series.html', ['post-body entry-content', 'post-body-768883087259348163']) Visited: 2021-01-01 17:38:40
+
+('http://kimiyyah.blogspot.com/2013/02/binciken-malaman-kimiyya-kan-yadda_25.html', ['MsoNormal', None]) Visited: 2021-01-01 17:38:40
+
+('http://kimiyyah.blogspot.com/2013/02/tsarin-gadon-dabiu-da-siffofin-halitta_13.html', ['MsoNormal', None]) Visited: 2021-01-01 17:38:40
+
+('http://gidandabino.blogspot.com/2015/08/me-ya-sa-muke-rubutu-wace-irin_7.html', ['post-body entry-content', 'post-body-2337562651559053384']) Visited: 2021-01-01 17:38:40
+
+('http://fagenmarubuta.blogspot.com/2008/10/', ['post-body entry-content', 'post-body-8462023382219441403']) Visited: 2021-01-01 17:38:40
+
+('http://harunaabubakarshika.blogspot.com/2011/', ['post-body entry-content', 'post-body-8094702951922828614']) Visited: 2021-01-01 17:38:40
+
+('http://munbarin-musulunci.blogspot.com/2012/', ['MsoNormal', None]) Visited: 2021-01-01 17:38:40
+
+('http://munbarin-musulunci.blogspot.com/2014/03/024-farillan-sallah.html', ['MsoNormal', None]) Visited: 2021-01-01 17:38:40
+
+('http://munbarin-musulunci.blogspot.com/2014/03/025-sunnonin-sallah.html', ['MsoNormal', None]) Visited: 2021-01-01 17:38:40
+
+('http://munbarin-musulunci.blogspot.com/2013/09/yadda-ake-wankan-tsarki.html', ['MsoNormal', None]) Visited: 2021-01-01 17:38:40
+
+('http://munbarin-musulunci.blogspot.com/2013/10/hukuncin-jinin-alada-jinin-haila.html', ['MsoNormal', None]) Visited: 2021-01-01 17:38:40
+
+('http://kimiyyah.blogspot.com/2013/02/tsakanin-kwakwalwa-da-zuciya6.html', ['MsoNormal', None]) Visited: 2021-01-01 17:38:40
+
+('https://hausa.leadership.ng/kafa-hukumar-kula-da-nakassasun-nijeriya-da-dawo-da-martabarsu/', ['content-inner', None]) Visited: 2021-01-01 17:38:40
+
+('https://www.bbc.com/hausa/labarai-55500481', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-01 17:48:12
+
+('https://www.bbc.com/hausa/rahotanni-55496812', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-01 18:07:11
+
+('http://aviero.co.uk/caddx-tarsier-xstum/tarihin-daura.html', ['content', None]) Visited: 2021-01-02 00:05:39
+
+('https://medikurs.com.tr/dogue-de-bqjho/yan-mata-adon-gari.html', ['product-name', None]) Visited: 2021-01-02 00:11:55
+
+('https://www.dw.com/ha/kame-shararren-dan-adawa-a-ruwanda/a-54795023', ['longText', None]) Visited: 2021-01-02 00:42:02
+
+('https://openwho.org/courses/gabatarwa-ga-COVID-19', ['col-md-12 course-description mt20 wmd-output', None]) Visited: 2021-01-02 00:48:06
+
+('https://www.gotquestions.org/Hausa/rai-madawwami.html', ['text', None]) Visited: 2021-01-02 01:32:54
+
+('http://hausa.cri.cn/20201231/827259b7-dd4e-3e41-6b09-cd012b2b7609-i.html', ['list-abody abody', 'abody']) Visited: 2021-01-02 01:36:32
+
+('https://www.bbc.com/hausa/live/labarai-55527738', ['lx-stream-post-body', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.bbc.com/hausa/labarai-52106837', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.bbc.com/hausa/labarai-55528437', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.bbc.com/hausa/labarai-55534344', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.bbc.com/hausa/rahotanni-55293417', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.bbc.com/hausa/labarai-55525912', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.bbc.com/hausa/labarai-55528435', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.bbc.com/hausa/labarai-55530764', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.bbc.com/hausa/labarai-55511853', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.voahausa.com/a/miyagu-sun-fara-gajiya-da-kauyuka-sai-birane-a-arewacin-najeriya/5723460.html', ['wsw', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.voahausa.com/a/gwamnatin-najeriya-ta-bullo-da-wasu-shirye-shiryen-tallafa-wa-manoma/5722792.html', ['wsw', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.voahausa.com/a/gwamnatin-jihar-kano-ta-maida-martani-kan-korafin-rage-albashin-ma-aikata-/5723923.html', ['wsw', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.voahausa.com/a/shirin-tallafawa-dukkan-makiyayan-jihar-kebbi/5715595.html', ['wsw', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.voahausa.com/a/matsalar-tsaro-a-najeriya-an-maka-buhari-a-kotu/5711703.html', ['wsw', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.voahausa.com/a/sai-gwamnatocin-arewa-sun-hada-kai-kafin-kai-ga-nasara-shekarau/5723486.html', ['wsw', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.voahausa.com/a/likitoci-20-sun-mutu-sakamakon-covid-19-a-abuja-a-kwanan-nan/5714200.html', ['wsw', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.voahausa.com/a/an-yi-jana-izar-maharban-da-bom-ya-kashe-a-maiduguri/5719610.html', ['wsw', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.voahausa.com/a/sokoto-mahaifi-ya-bayar-da-umarni-an-kashe-dan-sa-/5707266.html', ['wsw', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.voahausa.com/a/najeriya-ta-sayo-wasu-sabbin-jiragen-saman-yaki-/5714952.html', ['wsw', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.voahausa.com/a/gwamnan-jihar-zamfara-ya-maida-martani-kan-zargin-shi-ke-daukar-nauyin-ta-addanci-/5710443.html', ['wsw', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.voahausa.com/a/ranar-19-janairu-ne-wa-adin-yin-rijistar-layukan-waya-a-najeriya/5718241.html', ['wsw', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/rayuwar-matasanmu-dandalin-facebook-3.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/tsarin-muamala-da-wayar-salula-1-10.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/akwai-haruffan-hausa-masu-lankwasa.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/rayuwar-matasanmu-duniyar-intanet.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/tsokaci-da-tambayoyin-masu-karatu.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/rayuwar-matasanmu-dandalin-facebook-2.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/sakonnin-masu-karatu.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/wasu-daga-cikin-sakonninku_13.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/wasu-daga-cikin-sakonninku.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/rayuwar-matasanmu-dandalin-facebook-1.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/waiwaye-adon-tafiya5.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/tasirin-muamala-da-wayar-salula-ga.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/amsoshin-wasikun-masu-karatu-2_25.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/amsoshin-wasikun-masu-karatu-1.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/katsina-2013-rayuwar-matasa-dandalin.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/amsoshin-wasikun-masu-karatu-2.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('http://fasahar-intanet.blogspot.com/2013/02/sakonnin-masu-karatu-1.html', ['MsoNormal', None]) Visited: 2021-01-05 01:06:54
+
+('https://www.bbc.com/hausa/live/labarai-55543012?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=5ff4744ffc346a02e4bce323%26Ba%20kowa%20da%20kowa%20%C6%99arin%20ku%C9%97in%20wuta%20zai%20shafa%20ba%262021-01-05T16%3A09%3A29.114Z&ns_fee=0&pinned_post_locator=urn:asset:96ed74eb-7582-448b-b2ff-69d87cde12ad&pinned_post_asset_id=5ff4744ffc346a02e4bce323&pinned_post_type=share', ['lx-stream-post-body', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/labarai-55525912', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/labarai-55534350', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/labarai-55551451', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/labarai-55547662', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/live/labarai-55543012', ['lx-stream-post-body', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/labarai-55540315', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/labarai-55542687', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/labarai-55542691', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/labarai-55530764', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/labarai-52106837', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/labarai-55528432', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/labarai-55528435', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/labarai-55511336', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/wasanni-55551494', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/wasanni-55542981', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/wasanni-55534348', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/wasanni-55530765', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/wasanni-55534349', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/rahotanni-55508439', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/rahotanni-55448311', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/shirye-shirye-na-musamman-55451740', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/rahotanni-55424654', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/labarai-48753654', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.voahausa.com/a/an-tarwatsa-shirin-wasu-matasa-na-bukin-casu-maza-da-mata/5724872.html', ['wsw', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.voahausa.com/a/an-sake-tuhumar-omoyele-sowore-da-hada-taro-ba-bisa-ka-ida-ba/5724856.html', ['wsw', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.voahausa.com/a/an-fara-amfani-da-riga-kafin-covid-19-na-kamfanin-astrazeneca-a-birtaniya-/5723986.html', ['wsw', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.voahausa.com/a/shugaba-trump-na-ci-gaba-da-kokarin-sauya-sakamakon-zaben-shugaban-kasa/5723977.html', ['wsw', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.voahausa.com/a/hadakar-jam-iyyun-kawancen-pnds-sun-jaddada-goyon-bayansu-ga-bazoum-/5723963.html', ['wsw', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.voahausa.com/a/liverpool-ta-sha-ci-daya-mai-ban-haushi-a-southampton/5724881.html', ['wsw', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.voahausa.com/a/akwai-sojojin-najeriya-a-boko-haram---inji-sojan-najeriya---kashi-na-uku/1886454.html', ['wsw', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.voanews.com/MediaAssets2/projects/boko-haram/index_ha.html', ['slide slide-text', 'slide1']) Visited: 2021-01-05 20:35:45
+
+('https://www.voahausa.com/a/ana-mamakin-ingancin-allurar-rigakafin-coronavirus-da-kamfanin-amurka-ya-samar/5654979.html', ['wsw', None]) Visited: 2021-01-05 20:35:45
+
+('https://www.bbc.com/hausa/live/labarai-55599803?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=5ff97d0fe81bcc02ea0f70be%26An%20sace%20yara%20shida%20%27yan%20gida%20daya%20a%20Zamfara%262021-01-09T09%3A53%3A20.796Z&ns_fee=0&pinned_post_locator=urn:asset:9f6c5a59-eacb-4546-85d3-2589f7c9e424&pinned_post_asset_id=5ff97d0fe81bcc02ea0f70be&pinned_post_type=share', ['lx-stream-post-body', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/live/labarai-55584631?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=5ff8aa4cfc346a02e4bce6cd%26An%20sace%20komfutar%20shugabar%20majalisar%20dokokin%20Amurka%20Nancy%20Pelosi%20a%20hargitsin%20Capitol%20Hill%262021-01-08T19%3A01%3A20.013Z&ns_fee=0&pinned_post_locator=urn:asset:31c3f6bd-438f-495f-81f8-e5c7dcccf714&pinned_post_asset_id=5ff8aa4cfc346a02e4bce6cd&pinned_post_type=share', ['lx-stream-post-body', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/live/labarai-55599803', ['lx-stream-post-body', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/rahotanni-55594637', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/labarai-55584627', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/wasanni-55599800', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/rahotanni-55591730', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/labarai-55597187', ['lx-stream-post-body', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/labarai-52106837', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/labarai-55583514', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/labarai-55561911', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/labarai-55582936', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/labarai-55584635', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/labarai-55588599', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/rahotanni-55578607', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/labarai-55571555', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/wasanni-55577672', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/wasanni-55571554', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/wasanni-55577676', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/labarai-55578613', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/labarai-55555188', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/rahotanni-55424654', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/labarai-55562281', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/rahotanni-55448311', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.voahausa.com/a/nancy-pelosi-na-neman-hanyar-tsige-trump-daga-mulki/5730995.html', ['wsw', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.voahausa.com/a/ana-ci-gaba-da-zanga-zangar-neman-sake-omoyele-sowore/5730991.html', ['wsw', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.voahausa.com/a/gwamnatin-najeriya-ta-jinkirta-karin-kudin-wuta/5729709.html', ['wsw', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.voahausa.com/a/majalisar-dokokin-amurka-ta-tabbatar-da-nasarar-zaben-joe-biden/5728523.html', ['wsw', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.voahausa.com/a/najeriya-ta-bukaci-amurka-ta-gaggauta-kammala-kera-mata-wasu-jiragen-yaki-/5727191.html', ['wsw', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.voahausa.com/a/matsalar-tsaro-ta-haifar-da-karancin-safarar-kayan-gona-zuwa-kudu/5728081.html', ['wsw', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.voahausa.com/a/crystal-palace-ta-fara-sabuwar-shekara-da-kyau-jordan-ayew/5724880.html', ['wsw', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.voahausa.com/a/magoya-bayan-trump-sun-afkawa-ginin-majalisun-amurka/5728119.html', ['slide slide-text', 'slide1']) Visited: 2021-01-09 14:48:37
+
+('https://www.voahausa.com/a/hukumar-nerc-ta-ce-bata-kara-kashi-50-na-wuta-ba/5728248.html', ['wsw', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.voahausa.com/a/ronaldo-ya-zira-kwallo-ta-750/5686072.html', ['wsw', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.voahausa.com/a/wata-kotu-za-ta-yanke-hukunci-akan-gasar-olympic-2022/5703547.html', ['wsw', None]) Visited: 2021-01-09 14:48:37
+
+('https://www.bbc.com/hausa/labarai-55645265', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/labarai-55641298', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/live/labarai-55644146', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/labarai-55642159', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/labarai-55636996', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/55642071', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/rahotanni-55626667', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/labarai-55648371', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/rahotanni-55637461', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/labarai-55631219', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/labarai-55635310', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/55627936', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/labarai-55621219', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/labarai-55621218', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/labarai-52106837', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-13 18:32:47
+
+('https://www.bbc.com/hausa/live/labarai-55694255?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=6004392b16968a0307865cb3%26Dole%20Jami%E2%80%99an%20diflomasiyya%20su%20yi%20rijista%20da%20NIN%20%E2%80%93%20Pantami%262021-01-17T13%3A21%3A04.766Z&ns_fee=0&pinned_post_locator=urn:asset:0a393c23-afb2-40ff-9323-636020d0ce8a&pinned_post_asset_id=6004392b16968a0307865cb3&pinned_post_type=share', ['lx-stream-post-body', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/labarai-55689518', ['lx-stream-post-body', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/live/labarai-55687380', ['lx-stream-post-body', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/rahotanni-55675622', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/labarai-55696653', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/labarai-55692668', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/labarai-55692669', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/labarai-55363168', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/labarai-55686502', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/labarai-55684555', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/labarai-55685097', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/labarai-55682535', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/labarai-55681944', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/labarai-55673592', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/rahotanni-55664123', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/wasanni-55697841', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/wasanni-55696661', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/wasanni-55697845', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/wasanni-55691976', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/wasanni-55690186', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/wasanni-55686476', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/rahotanni-55666802', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/rahotanni-55637461', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/rahotanni-55594637', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-17 18:56:47
+
+('https://www.bbc.com/hausa/live/labarai-55778594', ['lx-stream-post-body', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/labarai-55781367', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/rahotanni-55775737', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/labarai-55775784', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/labarai-55769880', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/rahotanni-55769811', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/labarai-55770870', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/55772255', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/labarai-52106837', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/labarai-55754077', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/rahotanni-55766560', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/labarai-55755180', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/labarai-55772254', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/labarai-55771146', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/rahotanni-55771145', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/labarai-55760886', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/wasanni-55781300', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/wasanni-55775741', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/wasanni-55771296', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/wasanni-55767735', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/wasanni-55766568', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.bbc.com/hausa/wasanni-55760853', ['css-i9gxme eoodvxp1', None]) Visited: 2021-01-23 19:54:48
+
+('https://www.rumbunilimi.com.ng/DutseSarkiBello.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 19:54:48
+
+('https://www.rumbunilimi.com.ng/Kano%20Gabatarwa.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/MasarautarDauraSFarko.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/masarautarBurum.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/WukariWelcome.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/Masarautar%20Bichi.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/MasarautarZazzau.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/MasarautarKatsina.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/MasarautarDutse.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/SokotoKiranShehu.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/najeriyaTarihi.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/Kanuri.html', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/Fulani.html', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/Yarabawa.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/KasarHausaZamantakewa.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/WorldAU.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/WorldEU.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/DaularBirtaniya.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PindigaTarihi.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/WukariTarihi.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/jukunawa.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/Kwararrafa.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/Zinder.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/Damagaran.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleAtikuAbubakar.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleTY.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleDanmasani.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/Adamu%20Chiroma.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleSirAhmaduBello.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleTanko.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/KanoTarihi.html', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/JaharkanoTarihi.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/KanoKasuwarKurmi.html', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/Jahar%20Kaduna%20Tarihi.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/Hadiza%20Bala%20Usman.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleYusufBalaUsman.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleTinibu.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/peopleMarkZuckerberg.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleAristotle.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleNwachukwu.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleNgamdu.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleDanmarayaJos.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleAdoBayero.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleMuhammaduSanusiII.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+("https://www.rumbunilimi.com.ng/SokotoSultanSa'ad.html#gsc.tab=0", [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/DutseSarkiTuwai.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleOduduwa.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleNasirKabara.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleNanaAsmau.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleShehuFodiye.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleWali.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleIBB.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleGMB.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleObasanjo.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleFarfesaWirth.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/PeopleAbdallahUba.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
+('https://www.rumbunilimi.com.ng/DutseSarkiKetare.html#gsc.tab=0', [None, 'content']) Visited: 2021-01-23 20:27:51
+
