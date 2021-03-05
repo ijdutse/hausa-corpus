@@ -290,3 +290,203 @@ HMT288: Yanzu-yanzu: Gwamnatin Kano ta rufe kamfanonin roba saboda karya dokar t
 HMT289: Yanzu-yanzu: Gwamnatin Kano ta rufe kamfanonin roba saboda karya dokar tsaftar muhalli HMTR289: Yau dokar bata aiki ai ko hutun gwamnatin tarayya banda mu ? EMT289: Immediate: Kano state government shuts down rubber companies for violating sanitation laws EMTR289: Is the law valid today or is it a federal government holiday other than ours?
 HMT290: Yanzu-yanzu: Ƴan bindiga sun sako attajirin da suka sace a Kano HMTR290: Tohm yy hk ake so EMT290: Immediate: Gunmen release rich man abducted in Kano EMTR290: Tohm yy hk ake so
 HMT291: Yanzu-yanzu: Ƴan bindiga sun sako attajirin da suka sace a Kano HMTR291: Allah yaqara tsaremu daga sharrinsu EMT291: Immediate: Gunmen release rich man abducted in Kano EMTR291: May Allah protect us from their evil
+HMT292: Yanzu-yanzu: Ƴan bindiga sun sako attajirin da suka sace a Kano HMTR292: Alhamdulillah, Allah ya kiyaye gaba. EMT292: nan EMTR292: Alhamdulillah, God forbid.
+HMT293: Yanzu-yanzu: Ƴan bindiga sun sako attajirin da suka sace a Kano HMTR293: Masha Allah EMT293: nan EMTR293: Masha Allah
+HMT294: Yanzu-yanzu: Ƴan bindiga sun sako attajirin da suka sace a Kano HMTR294: Masha Allah to ya Allah ka-kare mu amin ya hayyu ya qayyum EMT294: nan EMTR294: May Allah protect us and grant us peace
+HMT295: Ina fatan mutuwa ta zama silar sulhun Kwankwaso da Ganduje – Ɗan Sarauniya HMTR295: Allah yasa,domin kuwa idan hakan tadamu bakaramar nasara bace ga al'ummar jahar kano gaba daya EMT295: nan EMTR295: God willing, it will be a great victory for the people of Kano State
+HMT296: Ina fatan mutuwa ta zama silar sulhun Kwankwaso da Ganduje – Ɗan Sarauniya HMTR296: Gaskiyar magana ina mamakin wannan kalmar dayawa yawan mutane suke amfani da ita wajan nemawa wada… EMT296: nan EMTR296: Honestly I wonder this word many people use to search for wada…
+HMT297: Abdullahi Abbas bai cancanci shugabancin jam’iyya ba – Ɗan Sarauniya HMTR297: Saraki gatan Jam'iya yanda kuka dama haka za asha EMT297: nan EMTR297: You will lose the privilege of the party as you wish
+HMT298: Abdullahi Abbas bai cancanci shugabancin jam’iyya ba – Ɗan Sarauniya HMTR298: Daga baya kenan EMT298: nan EMTR298: That's later
+HMT299: Abdullahi Abbas bai cancanci shugabancin jam’iyya ba – Ɗan Sarauniya HMTR299: Ai matukar akace jahili zai shugabance ka to ka rinks ganin aikin jahilci. EMT299: nan EMTR299: If ignorance leads you, then you rinks to see ignorance.
+HMT300: Babban malamin addinin Muslunci Sheikh Ahmed Lemu ya rasu da safiyar yau Alhamis a birnin Minna na jihar Neja. Fr… HMTR300: Ya Allah ya Gina's a rahama EMT300: nan EMTR300: O Allah's Gina's in mercy
+HMT301: Babban malamin addinin Muslunci Sheikh Ahmed Lemu ya rasu da safiyar yau Alhamis a birnin Minna na jihar Neja. Fr… HMTR301: Allah ya jikansa da rahama EMT301: nan EMTR301: May Allah have mercy on his grandson
+HMT302: Babban malamin addinin Muslunci Sheikh Ahmed Lemu ya rasu da safiyar yau Alhamis a birnin Minna na jihar Neja. Fr… HMTR302: Innalillahi Wa'inna Ilaihirraji un May the Almighty Allah Forgive nd b Merciful to him From tijjani mai doya na siyama EMT302: nan EMTR302: Innalillahi Wa'inna Ilaihirraji un May the Almighty Allah Forgive nd b Merciful to him From tijjani mai doya na siyama
+HMT303: Babban malamin addinin Muslunci Sheikh Ahmed Lemu ya rasu da safiyar yau Alhamis a birnin Minna na jihar Neja. Fr… HMTR303: Allahu ya gafarta masa. EMT303: nan EMTR303: May Allah forgive him.
+HMT304: Babban malamin addinin Muslunci Sheikh Ahmed Lemu ya rasu da safiyar yau Alhamis a birnin Minna na jihar Neja. Fr… HMTR304: Allah gafartamasa EMT304: nan EMTR304: God forgive him
+HMT305: Babban malamin addinin Muslunci Sheikh Ahmed Lemu ya rasu da safiyar yau Alhamis a birnin Minna na jihar Neja. Fr… HMTR305: Allah ya jiqansa da rahama EMT305: nan EMTR305: May Allah have mercy on him
+HMT306: Babban malamin addinin Muslunci Sheikh Ahmed Lemu ya rasu da safiyar yau Alhamis a birnin Minna na jihar Neja. Fr… HMTR306: Allah ya gafarta masa yai masa rahama. EMT306: nan EMTR306: May God forgive him and have mercy on him.
+HMT307: Babban malamin addinin Muslunci Sheikh Ahmed Lemu ya rasu da safiyar yau Alhamis a birnin Minna na jihar Neja. Fr… HMTR307: Allah ya jikansa d gafara allah ya mutuwar sa tazama alkhairi EMT307: nan EMTR307: May God bless his grandson and may God bless his death
+HMT308: Babban malamin addinin Muslunci Sheikh Ahmed Lemu ya rasu da safiyar yau Alhamis a birnin Minna na jihar Neja. Fr… HMTR308: Allah yajikansa EMT308: nan EMTR308: God forbid
+HMT309: Babban malamin addinin Muslunci Sheikh Ahmed Lemu ya rasu da safiyar yau Alhamis a birnin Minna na jihar Neja. Fr… HMTR309: Allah ya jikansa da rahma EMT309: nan EMTR309: God bless his grandson with mercy
+HMT310: Babban malamin addinin Muslunci Sheikh Ahmed Lemu ya rasu da safiyar yau Alhamis a birnin Minna na jihar Neja. Fr… HMTR310: Allahu Akabar, Allah ya jikan sa da rahama EMT310: nan EMTR310: Allahu Akabar, may Allah have mercy on his grandson
+HMT311: Babban malamin addinin Muslunci Sheikh Ahmed Lemu ya rasu da safiyar yau Alhamis a birnin Minna na jihar Neja. Fr… HMTR311: Allah ya jikansa EMT311: nan EMTR311: God was his grandson
+HMT312: Babban malamin addinin Muslunci Sheikh Ahmed Lemu ya rasu da safiyar yau Alhamis a birnin Minna na jihar Neja. Fr… HMTR312: Allahu Akbar ,Allah ya gafarta masa EMT312: nan EMTR312: God is great, God forgive Masi
+HMT313: Babban malamin addinin Muslunci Sheikh Ahmed Lemu ya rasu da safiyar yau Alhamis a birnin Minna na jihar Neja. Fr… HMTR313: Allah yayi mai rahama EMT313: nan EMTR313: May Allah have mercy on him
+HMT314: CoronaWave2: Gwamna Badaru ya umarci ma’aikata su fara aiki daga gida saboda Corona HMTR314: Damashi wann governor din namu dan abiyarima asha kidane, bashida ra’ayin kansa EMT314: nan EMTR314: Our governor's son, Asha Kidane, has no personal opinion
+HMT315: … HMTR315: … EMT315: nan EMTR315: …
+HMT316: Indai kai dan Nigeria ne to dole ka yarda da cewa Baban mu ne shi HMTR316: Idan sai na yarda buhari babane sai dai a cire NI a list din Yan kasa EMT316: nan EMTR316: If I have to accept Buhari, I have to remove NI from the Citizens' list
+HMT317: Wancanma duk cikin gyaran kasa ne, domin sai shugaba ya gyagije ya more sannan… HMTR317: Naga alama, buhari a haka ya amshi mulkin Nigeria EMT317: nan EMTR317: It seems that Buhari has accepted the rule of Nigeria
+HMT318: 🤣 maye marabar dambe da fada, ai a matsayin shi na Baba mun bar mishi duka kudin. HMTR318: Baba, NI ba banana bane sai dai kan in Kai baban kane EMT318: nan EMTR318: Dad, I am not a banana unless you are my uncle
+HMT319: . A karawa Baba aure, kuma budurwa domin inganta lafiyar shi. A siyowa Baba Shanu domin 'Kara fadada… HMTR319: ga kyakyawan shawara ku isar ma buhari 🤣🤣🤣🤣 EMT319: nan EMTR319: for good advice reach out to buhari🤣🤣🤣🤣
+HMT320: . A karawa Baba aure, kuma budurwa domin inganta lafiyar shi. A siyowa Baba Shanu domin 'Kara fadada… HMTR320: Gaskyai kam yafimu bukata EMT320: nan EMTR320: We really need it
+HMT321: . A karawa Baba aure, kuma budurwa domin inganta lafiyar shi. A siyowa Baba Shanu domin 'Kara fadada… HMTR321: Wallahi idan buhari ya ganka filla filla xaima EMT321: nan EMTR321: God, then, my sea, my Genk, Villa, Villa Ksima
+HMT322: . A karawa Baba aure, kuma budurwa domin inganta lafiyar shi. A siyowa Baba Shanu domin 'Kara fadada… HMTR322: Sbd samun kwarin guiwar yawo a sararin samaniya EMT322: nan EMTR322: Sbd get the valley floating in space
+HMT323: . A karawa Baba aure, kuma budurwa domin inganta lafiyar shi. A siyowa Baba Shanu domin 'Kara fadada… HMTR323: Bafa, shi ba zaa bama rancan kudin bafa, NIGERIA zaa Bata EMT323: nan EMTR323: Bafa, he will not lend me money bafa, NIGERIA will be Bata
+HMT324: Him allah kadai keson talakka amma nalura masu mulki basudamu da halin da akecikiba hanyar abuja zuwa zar… HMTR324: Malam NXT time Idan zaka rubuta sunan Allah subhanahu wata’ala ka daina rubutawa da small letter. EMT324: nan EMTR324: NXT time If you are writing the name of Allah subhanahu wata'ala, stop writing with a small letter.
+HMT325: inayiwa al,ummar Nigeria addu,a Allah yakawomata karshen wannan ta addanci, dama duniya bakidaya HMTR325: Ameen EMT325: nan EMTR325: Trustworthy
+HMT326: Kai dallah kamuna shiru kasha giyane lokacin da aka kashi yan borno shima bahaka kayi wata banzar mgn kaw… HMTR326: Lokaci dai opay yayi shiyasa EMT326: nan EMTR326: Time is running out
+HMT327: Wlh gwagwagwa ne HMTR327: nan EMT327: nan EMTR327: in
+HMT328: Toh Jama'a kunji wai Wanda basu da national ID card za'a koresu daga Nigeria a maida su Dubai🥺 HMTR328: Ashe zamu shana saman iska EMT328: nan EMTR328: Are we going to breathe the air?
+HMT329: Ahap ai suma sunsan iyayensu mutane ne marassa daraja , besides ma xakaga common Lecturer dai daya… HMTR329: Harka ta kudi kuma a najeriya ba kunya,sai a cashu ma EMT329: nan EMTR329: Money matters in Nigeria and there is no shame, let alone cash
+HMT330: … HMTR330: … EMT330: nan EMTR330: …
+HMT331: … HMTR331: … EMT331: nan EMTR331: …
+HMT332: … HMTR332: … EMT332: nan EMTR332: …
+HMT333: … HMTR333: … EMT333: nan EMTR333: …
+HMT334: Lokacin uban kowa ma ya mutu ya koma ga Allah ba. Aikin banza aikin wofi. Allah ka tsare mu… HMTR334: amin ya rabbi EMT334: nan EMTR334: Amen
+HMT335: "Wir können weitermachen (!)" ~ &amp; . Freude + Vorfreude auf meine Sonntagslektüren… HMTR335: Danke für die netten Worte, liebe Louisa EMT335: nan EMTR335: Thanks for the nice words, dear Louisa
+HMT336: Dear sisters, it's not about yanada kudi yanada car ko Yana zuwa abroad he's classy nd so on... the real question i… HMTR336: nan EMT336: nan EMTR336: in
+HMT337: Hhhhh Nima fa. Bahaushe ne. Dan Nigeria. Kano Riqe harshenka HMTR337: Hmmm EMT337: nan EMTR337: Hmmm
+HMT338: … HMTR338: … EMT338: nan EMTR338: …
+HMT339: Indai kai dan Nigeria ne to dole ka yarda da cewa Baban mu ne shi HMTR339: Idan sai na yarda buhari babane sai dai a cire NI a list din Yan kasa EMT339: nan EMTR339: If I have to accept Buhari, I have to remove NI from the Citizens' list
+HMT340: Wancanma duk cikin gyaran kasa ne, domin sai shugaba ya gyagije ya more sannan… HMTR340: Naga alama, buhari a haka ya amshi mulkin Nigeria EMT340: nan EMTR340: It seems that Buhari has accepted the rule of Nigeria
+HMT341: 🤣 maye marabar dambe da fada, ai a matsayin shi na Baba mun bar mishi duka kudin. HMTR341: Baba, NI ba banana bane sai dai kan in Kai baban kane EMT341: nan EMTR341: Dad, I am not a banana unless you are my uncle
+HMT342: . A karawa Baba aure, kuma budurwa domin inganta lafiyar shi. A siyowa Baba Shanu domin 'Kara fadada… HMTR342: ga kyakyawan shawara ku isar ma buhari 🤣🤣🤣🤣 EMT342: nan EMTR342: for good advice reach out to buhari🤣🤣🤣🤣
+HMT343: . A karawa Baba aure, kuma budurwa domin inganta lafiyar shi. A siyowa Baba Shanu domin 'Kara fadada… HMTR343: Gaskyai kam yafimu bukata EMT343: nan EMTR343: We really need it
+HMT344: . A karawa Baba aure, kuma budurwa domin inganta lafiyar shi. A siyowa Baba Shanu domin 'Kara fadada… HMTR344: Wallahi idan buhari ya ganka filla filla xaima EMT344: nan EMTR344: God, then, my sea, my Genk, Villa, Villa Ksima
+HMT345: . A karawa Baba aure, kuma budurwa domin inganta lafiyar shi. A siyowa Baba Shanu domin 'Kara fadada… HMTR345: Sbd samun kwarin guiwar yawo a sararin samaniya EMT345: nan EMTR345: Sbd get the valley floating in space
+HMT346: . A karawa Baba aure, kuma budurwa domin inganta lafiyar shi. A siyowa Baba Shanu domin 'Kara fadada… HMTR346: Bafa, shi ba zaa bama rancan kudin bafa, NIGERIA zaa Bata EMT346: nan EMTR346: Bafa, he will not lend me money bafa, NIGERIA will be Bata
+HMT347: Him allah kadai keson talakka amma nalura masu mulki basudamu da halin da akecikiba hanyar abuja zuwa zar… HMTR347: Malam NXT time Idan zaka rubuta sunan Allah subhanahu wata’ala ka daina rubutawa da small letter. EMT347: nan EMTR347: NXT time If you are writing the name of Allah subhanahu wata'ala, stop writing with a small letter.
+HMT348: inayiwa al,ummar Nigeria addu,a Allah yakawomata karshen wannan ta addanci, dama duniya bakidaya HMTR348: Ameen EMT348: nan EMTR348: Trustworthy
+HMT349: Kai dallah kamuna shiru kasha giyane lokacin da aka kashi yan borno shima bahaka kayi wata banzar mgn kaw… HMTR349: Lokaci dai opay yayi shiyasa EMT349: nan EMTR349: Time is running out
+HMT350: Wlh gwagwagwa ne HMTR350: nan EMT350: nan EMTR350: in
+HMT351: Toh Jama'a kunji wai Wanda basu da national ID card za'a koresu daga Nigeria a maida su Dubai🥺 HMTR351: Ashe zamu shana saman iska EMT351: nan EMTR351: Are we going to breathe the air?
+HMT352: Ahap ai suma sunsan iyayensu mutane ne marassa daraja , besides ma xakaga common Lecturer dai daya… HMTR352: Harka ta kudi kuma a najeriya ba kunya,sai a cashu ma EMT352: nan EMTR352: Money matters in Nigeria and there is no shame, let alone cash
+HMT353: … HMTR353: … EMT353: nan EMTR353: …
+HMT354: … HMTR354: … EMT354: nan EMTR354: …
+HMT355: … HMTR355: … EMT355: nan EMTR355: …
+HMT356: … HMTR356: … EMT356: nan EMTR356: …
+HMT357: Lokacin uban kowa ma ya mutu ya koma ga Allah ba. Aikin banza aikin wofi. Allah ka tsare mu… HMTR357: amin ya rabbi EMT357: nan EMTR357: Amen
+HMT358: "Wir können weitermachen (!)" ~ &amp; . Freude + Vorfreude auf meine Sonntagslektüren… HMTR358: Danke für die netten Worte, liebe Louisa EMT358: nan EMTR358: Thanks for the nice words, dear Louisa
+HMT359: Dear sisters, it's not about yanada kudi yanada car ko Yana zuwa abroad he's classy nd so on... the real question i… HMTR359: nan EMT359: nan EMTR359: in
+HMT360: Hhhhh Nima fa. Bahaushe ne. Dan Nigeria. Kano Riqe harshenka HMTR360: Hmmm EMT360: nan EMTR360: Hmmm
+HMT361: Wannan hwa sirrin mutanen Katsina ne🤸‍️ Ku dai ai kuna nan kuna ta kular mamu da jamiyya🤣🤣🤣 HMTR361: Munata chilling a abuja ba EMT361: nan EMTR361: We are chilling in Abuja
+HMT362: Kaii Karya a gaban ki Akai auran nata , aura… HMTR362: Grassssss EMT362: nan EMTR362: Grassssss
+HMT363: Abokin ango dai 🤣🤣 HMTR363: To ina angon EMT363: nan EMTR363: To ina angon
+HMT364: Kema idan naki. Haka zamuyi miki. Fiye da nashi HMTR364: Hehehehe EMT364: nan EMTR364: Hehehehe
+HMT365: Wanan abun yafi karfin hukuma kuma muma yafi karfun mu, addu'a ita kadai ce zata mana maganin wanan abun… HMTR365: Amen yaallah EMT365: nan EMTR365: Amen yaallah
+HMT366: Allah ya raya, yasa masa albarka, mu ma yan baya Allah ya nuna Mana namu HMTR366: Ameen EMT366: nan EMTR366: Trustworthy
+HMT367: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR367: Daman cen tana da ita ai EMT367: nan EMTR367: She has the right to do so
+HMT368: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR368: Shi wannan film din ai kowa yana iya xama dan wasan, ba sai wa'e da wa'e ba. EMT368: nan EMTR368: This movie is for everyone to know, no matter who they are.
+HMT369: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR369: Tom EMT369: nan EMTR369: Tom
+HMT370: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR370: ALLAH bata lpy, yakarae mu bakidaya.. EMT370: nan EMTR370: GOD does not love us, and He is with us all.
+HMT371: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR371: Allah kiyaye EMT371: nan EMTR371: God forbid
+HMT372: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR372: Wai wannan iskancin da tsiyar yaki ci yaki cyanyewa haba do Allah corona corona corona!!!! Everywhere cor… EMT372: nan EMTR372: It is said that this is a war of attrition. Everywhere cor…
+HMT373: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR373: RIP EMT373: nan EMTR373: RIP
+HMT374: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR374: Allh yabata lpyq EMT374: nan EMTR374: God repents Beek
+HMT375: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR375: 🤔 EMT375: nan EMTR375: 🤔
+HMT376: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR376: Kun Dame mu Dan Allah haba EMT376: nan EMTR376: You are bothering us Son of God
+HMT377: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR377: Allah Ya bata Lafiya. Ameen EMT377: nan EMTR377: God bless you. Ameen
+HMT378: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR378: Allah yabata lafiya EMT378: nan EMTR378: God bless you
+HMT379: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR379: Allah yabata lafiya Allah kuma yakawo mana karshen wannan cuta ta Covid + EMT379: nan EMTR379: God bless you and bring an end to this disease of Covid +
+HMT380: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR380: ALLAH bata LAFIYA EMT380: nan EMTR380: GOD is never unhappy
+HMT381: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR381: 🤔🤔🤔 EMT381: nan EMTR381: 🤔🤔🤔
+HMT382: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR382: Allah ya bata lahia EMT382: nan EMTR382: God, O bata her
+HMT383: Ministar al'amuran mata ta Najeriya ta kamu da korona Ƙarin bayani HMTR383: BBC Hausa nikuma nakamu da yunwa Allah yabamu magani EMT383: nan EMTR383: God bless us and cure our hunger
+HMT384: Broke guys mun shiga uku watoh babu mu babu soyayya kenan.? According to chinyere. 🤣🤣 HMTR384: ga kan er buhun uba EMT384: nan EMTR384: ga kan er buhun uba
+HMT385: Shayad sari gadiyo ko min m puncture krne ka soch rahe honge fir aaram se puncture banayenge sab beth k HMTR385: 🤣🤣 EMT385: nan EMTR385: 🤣🤣
+HMT386: Kardai kayamutse HMTR386: toh kuyita retweet EMT386: nan EMTR386: toh kuyita retweet
+HMT387: bro and sai ku wanke malinmalin dinku gobe. HMTR387: A shirye nake ni yasin EMT387: nan EMTR387: I'm ready to go
+HMT388: bro and sai ku wanke malinmalin dinku gobe. HMTR388: 🤣🤣 kanka na tabo EMT388: nan EMTR388: 🤣🤣 kanka na tabo
+HMT389: Gawuna ya kai gaisuwa Are y'all thinking what I'm thinking? HMTR389: Ku bashi ticket toh EMT389: nan EMTR389: Give me a ticket
+HMT390: Yasin se mun muku haka &amp; HMTR390: Sai na fara dura ashar wallahi. EMT390: nan EMTR390: Then I started swearing.
+HMT391: Yasin se mun muku haka &amp; HMTR391: Kai Jama'a EMT391: nan EMTR391: You People
+HMT392: Yasin se mun muku haka &amp; HMTR392: Shi sosai🤣 EMT392: nan EMTR392: Shi sosai 🤣
+HMT393: See this small girl fa , keh da Period baki fara ba, meh yakawo ki twitter HMTR393: Na isa na haifamaka yara🧐 EMT393: nan EMTR393: I am old enough to give birth to children🧐
+HMT394: Gobe ne birthday budurwata YAR YOLA, inata tunanin me xatafiso cikin abubuwannan, a tayani zaba pls... • In siya m… HMTR394: Ka kaini jimeta EMT394: nan EMTR394: Ka kaini jimeta
+HMT395: Gobe ne birthday budurwata YAR YOLA, inata tunanin me xatafiso cikin abubuwannan, a tayani zaba pls... • In siya m… HMTR395: Gaskiya kasa yarannan agaba kowata ta kwara kankane EMT395: nan EMTR395: In fact, it is worse then worthless, it consumes time and resources but returns no sales
+HMT396: Gobe ne birthday budurwata YAR YOLA, inata tunanin me xatafiso cikin abubuwannan, a tayani zaba pls... • In siya m… HMTR396: Ka kaita jimeta EMT396: nan EMTR396: Kaita jimeta
+HMT397: … HMTR397: Ah tou itan bnxa EMT397: nan EMTR397: Ah he was bnxa
+HMT398: Wow masha Allah, Allah yabada zaman lfy HMTR398: Ameen EMT398: nan EMTR398: Trustworthy
+HMT399: Amma de kaine angon ko HMTR399: Abokin ango dai 🤣🤣 EMT399: nan EMTR399: The groom's friend 🤣🤣
+HMT400: Wlhy kuwa. Haba kullun aitacewa sai anciyo bashi ga kuma engine buga kudin HMTR400: Bashin billions fa kai ai ancucemu. EMT400: nan EMTR400: Billions are owed to us.
+HMT401: Allah ya taimaki Sarki tunda bana ba za mu zo fada ga gaisuwa nan online. Zaman Fada a HMTR401: Allah ya kara lafiya da nisan kwana arziki da wadata. Ya bar zumunci Ameen summa Amee… EMT401: nan EMTR401: May God increase your health and longevity and prosperity. He left the relationship Ameen summa Amee…
+HMT402: Duk mai sabuwar amarya rubutu daya yake fahimata, Allah ya bada zama lafiya HMTR402: Amen for the prayers But Sir maganar sabuwar amarya inaga muna cikin slow leaner`s team shiy… EMT402: nan EMTR402: Amen for the prayers But Sir the word of the new bride I am in slow leaner`s team shiy…
+HMT403: Babaa nifa jiya naci wani nama yanda kasan sweet campo kana sashi a baki zakaji ya laqume HMTR403: kaci alade ne halan EMT403: nan EMTR403: kaci pig ne halan
+HMT404: ya kaga wani ze rigamu zuwa ana assalatu kafuto muje nayi mgn da Vazquez HMTR404: Subahanallahi 🤣🤣🤣 EMT404: nan EMTR404: Subahanallahi 🤣🤣🤣
+HMT405: ya kaga wani ze rigamu zuwa ana assalatu kafuto muje nayi mgn da Vazquez HMTR405: Subahanallahi 🤣🤣🤣 EMT405: nan EMTR405: Subahanallahi 🤣🤣🤣
+HMT406: Kace gobe sena leqa kowace coci da take badawa na ci rabona HMTR406: Aljina na goge kayan da xan churches goben nan EMT406: nan EMTR406: I will be cleaning the churches tomorrow
+HMT407: Wlh sosai kam wasu celebration kawai su keyi allah yawa rayuwa albarka HMTR407: Amin ya Hayyu ya qayyum EMT407: nan EMTR407: Amen, oh she, my assessors
+HMT408: … HMTR408: nan EMT408: nan EMTR408: in
+HMT409: Nikan wlh zan shedeki a zahiri Kuma insha Allah a badininma haka kike HMTR409: Nagode sosai EMT409: nan EMTR409: Thank you very much
+HMT410: Yana da kyau kuna taba ko'ina domin kuwa kowa da ra'ayin sa. Sannan kuma ya danganta da yanayin yad… HMTR410: Ni kawai yawan cin abinda kukeyi ne acikin flim din ku wanda baya min dadi shine bakwanuna t… EMT410: nan EMTR410: I just eat a lot of what you do in your film which I don't like is my mouth t…
+HMT411: Sauro Fah Ya Tura Wani Sako Allah Yasa Wannan Sako Yaje Inda Aka Tura Shi Ameen 🤲 HMTR411: Ameen yaje ma ai EMT411: nan EMTR411: Ameen yaje ma ai
+HMT412: Sauro Fah Ya Tura Wani Sako Allah Yasa Wannan Sako Yaje Inda Aka Tura Shi Ameen 🤲 HMTR412: Ko wane irin sakone ? EMT412: nan EMTR412: What kind of message?
+HMT413: Wasu bikin A december en nan dan abata mana Rai kawai akeyinsa. Hba kaga mutum ko month basui da haduwa da yariny… HMTR413: 🤣🤣🤣 EMT413: nan EMTR413: 🤣🤣🤣
+HMT414: Wasu bikin A december en nan dan abata mana Rai kawai akeyinsa. Hba kaga mutum ko month basui da haduwa da yariny… HMTR414: Kasamu kaima kayi wuff da sai kayi breaking record nasu kawai december saura kwana mawa yakare ne? EMT414: nan EMTR414: If you were to make a wuff and break their record just December, would it be too late?
+HMT415: Wasu bikin A december en nan dan abata mana Rai kawai akeyinsa. Hba kaga mutum ko month basui da haduwa da yariny… HMTR415: Toh kaji haushine EMT415: nan EMTR415: Toh kaji haushine
+HMT416: Ban gane Hausar ba "ta raba dan sanda da kasa" Ta kashe shi kenan? Ko kuma ta daga shi sama ne??? HMTR416: Shine sukace ki karanta labarin zakiji karin bayani Hajjaju "hmmm" EMT416: nan EMTR416: Hajjaju "hmmm"
+HMT417: … HMTR417: … EMT417: nan EMTR417: …
+HMT418: … HMTR418: … EMT418: nan EMTR418: …
+HMT419: … HMTR419: … EMT419: nan EMTR419: …
+HMT420: INA MAI MIKI TA'AZIYATA GA JAGORAN MU ENG DR RABI'U MUSA KWANKWANASO DA KUMA MABIYA DARIKAR KWANKWASIYYA ALLAH UBAN… HMTR420: … EMT420: nan EMTR420: …
+HMT421: Mutanan suna shan wuya fa HMTR421: Suna kan shama kuwa yanzu EMT421: nan EMTR421: They are on the shama now
+HMT422: Allah Ya jikan Majidadin Kano kuma Hakimin Madobi, Alhaji Musa Saleh Kwankwaso. Mahaifi ne ga Jagoran … HMTR422: Amin suma amin Allah yayi masa rahma yasa aljanna makoma EMT422: nan EMTR422: May God have mercy on him and make paradise his destiny
+HMT423: Allah Ya jikan Majidadin Kano kuma Hakimin Madobi, Alhaji Musa Saleh Kwankwaso. Mahaifi ne ga Jagoran … HMTR423: Ameen EMT423: nan EMTR423: Trustworthy
+HMT424: Allah Ya jikan Majidadin Kano kuma Hakimin Madobi, Alhaji Musa Saleh Kwankwaso. Mahaifi ne ga Jagoran … HMTR424: Ameen thuma Ameen EMT424: nan EMTR424: Amen there is an honest
+HMT425: Allah Ya jikan Majidadin Kano kuma Hakimin Madobi, Alhaji Musa Saleh Kwankwaso. Mahaifi ne ga Jagoran … HMTR425: Allah ubangiji ya jikansa yasa ya huta EMT425: nan EMTR425: God rest his soul
+HMT426: Allah Ya jikan Majidadin Kano kuma Hakimin Madobi, Alhaji Musa Saleh Kwankwaso. Mahaifi ne ga Jagoran … HMTR426: Amin ya Allah EMT426: nan EMTR426: Amin, O God
+HMT427: An Kashe Yan Jahar ka kuma yan kasar da kake mulka, Kana Daura a zaune ka bawa na ABUJA umarni su zo suga me ke Far… HMTR427: Wannan Maganar Gaskiya,ce Sarki EMT427: nan EMTR427: This is the true word, says the King
+HMT428: Da A ce Dabbobin dake Garken Daura aka yiwa Haka, Da dole Sai Mai-Gaskiya yaje kuma Sai an tura battalions na Sojoj… HMTR428: Aslm dafarko inagaida mgd srk waka gsky da'ace anasamun irinku A knwood da kungyara dukanin fim dinda… EMT428: nan EMTR428: Aslm dafarko nagaida mgd srk waka gsky da'ace anasamun irinku A knwood da kungyara duknan film dinda.
+HMT429: Da A ce Dabbobin dake Garken Daura aka yiwa Haka, Da dole Sai Mai-Gaskiya yaje kuma Sai an tura battalions na Sojoj… HMTR429: Gaskiya,ne Sarkin Waka EMT429: nan EMTR429: True, he is the King of Music
+HMT430: … HMTR430: … EMT430: nan EMTR430: …
+HMT431: Cubic Pyrite crystals cluster from Navajún, Spain Credit: EarthsNaturalArt/IG HMTR431: nan EMT431: nan EMTR431: in
+HMT432: … HMTR432: … EMT432: nan EMTR432: …
+HMT433: … HMTR433: … EMT433: nan EMTR433: …
+HMT434: … HMTR434: … EMT434: nan EMTR434: …
+HMT435: 🤔🤔 HMTR435: … EMT435: nan EMTR435: …
+HMT436: 🤔🤔 HMTR436: … EMT436: nan EMTR436: …
+HMT437: 🤔🤔 HMTR437: Rashin karfin imani ne EMT437: nan EMTR437: It is a lack of faith
+HMT438: 🤔🤔 HMTR438: Idan kunne yaji EMT438: nan EMTR438: If the ear is spicy
+HMT439: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR439: Aameeeeeen EMT439: nan EMTR439: Aameeeeeen
+HMT440: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR440: Ameen ya allah EMT440: nan EMTR440: Amin, O God
+HMT441: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR441: Ammen Ya Allah EMT441: nan EMTR441: Amen O God
+HMT442: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR442: Amin ya Allah EMT442: nan EMTR442: Amin, O God
+HMT443: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR443: Masha ALLAH EMT443: nan EMTR443: Masha Allah
+HMT444: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR444: Ameen saira ina masu fatan Alkhairi EMT444: nan EMTR444: Ameen saira I wish them all the best
+HMT445: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR445: Ameen yabasu zaman lfy mai dorewa saura su wa'eh ️ EMT445: nan EMTR445: Ameen yabasu stay lfy sustainable rest su wa'eh ️
+HMT446: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR446: Allah ya albarkaci zuri'arku EMT446: nan EMTR446: God bless your descendants
+HMT447: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR447: Congratulations Allah ya ba da zaman lafiya EMT447: nan EMTR447: Congratulations God grant peace
+HMT448: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR448: Ameen EMT448: nan EMTR448: Trustworthy
+HMT449: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR449: Ameen EMT449: nan EMTR449: Trustworthy
+HMT450: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR450: Amen malan saira EMT450: nan EMTR450: Amen malan saira
+HMT451: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR451: nan EMT451: nan EMTR451: in
+HMT452: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR452: Ameen EMT452: nan EMTR452: Trustworthy
+HMT453: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR453: Ameen EMT453: nan EMTR453: Trustworthy
+HMT454: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR454: HML EMT454: nan EMTR454: HML
+HMT455: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR455: Masha Allah EMT455: nan EMTR455: Masha Allah
+HMT456: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR456: Ameen ya allah EMT456: nan EMTR456: Amin, O God
+HMT457: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR457: Allah yasa alkhairi yabada zuri'a dayyaba EMT457: nan EMTR457: God bless you and your children
+HMT458: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR458: Ni EMT458: nan EMTR458: To
+HMT459: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR459: Ameen EMT459: nan EMTR459: Trustworthy
+HMT460: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR460: Ameen summa ameen EMT460: nan EMTR460: Amin Soma Amin
+HMT461: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR461: HML EMT461: nan EMTR461: HML
+HMT462: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR462: Ameen summa ameen EMT462: nan EMTR462: Amin Soma Amin
+HMT463: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR463: Malam Aminu, Allah ya ba da zaman lafiya da zuri'a dayyiba EMT463: nan EMTR463: Mr. Aminu, may God bless you and your children
+HMT464: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR464: Ameen EMT464: nan EMTR464: Trustworthy
+HMT465: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR465: Ameen yaa rabbi. Allah yasa muga na yan baya? EMT465: nan EMTR465: Ameen yaa rabbi. God made us backward?
+HMT466: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR466: Allah yasa Alheri EMT466: nan EMTR466: God made Grace
+HMT467: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR467: Ameen Ya Allah EMT467: nan EMTR467: Amin, O God
+HMT468: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR468: nan EMT468: nan EMTR468: in
+HMT469: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR469: Muna godiya EMT469: nan EMTR469: Thanks
+HMT470: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR470: Ameen EMT470: nan EMTR470: Trustworthy
+HMT471: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR471: Ameen EMT471: nan EMTR471: Trustworthy
+HMT472: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR472: Masha Allah. EMT472: nan EMTR472: Masha Allah.
+HMT473: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR473: Amin Ya Hayatu Ya Qayyum EMT473: nan EMTR473: Amen Ya Hayatu Ya Qayyum
+HMT474: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR474: Ameen EMT474: nan EMTR474: Trustworthy
+HMT475: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR475: Ameen summa Ameen oga EMT475: nan EMTR475: Amin Suma Amin Aja
+HMT476: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR476: Ameen EMT476: nan EMTR476: Trustworthy
+HMT477: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR477: Ameen EMT477: nan EMTR477: Trustworthy
+HMT478: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR478: Ameen EMT478: nan EMTR478: Trustworthy
+HMT479: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR479: Ameeen baban directer A Nigeria EMT479: nan EMTR479: Ameeen baban director in Nigeria
+HMT480: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR480: Ameen EMT480: nan EMTR480: Trustworthy
+HMT481: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR481: Allahumma Aameen 'Yaa Rabbee EMT481: nan EMTR481: Oh God, Amen, my Lord
+HMT482: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR482: Ameen EMT482: nan EMTR482: Trustworthy
+HMT483: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR483: Masha Allahu congratulations to us EMT483: nan EMTR483: Masha Allahu congratulations to us
+HMT484: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR484: Ameen EMT484: nan EMTR484: Trustworthy
+HMT485: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR485: Ameeeen ya rabbi EMT485: nan EMTR485: Ameeeen ya rabbi
+HMT486: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR486: Allah ya sanya alkairi EMT486: nan EMTR486: God has made a covenant
+HMT487: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR487: Ameen ya Allah Malam Aminu saira EMT487: nan EMTR487: Amen, O God, unless Amen is a biography
+HMT488: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR488: allah ya sa alkeri EMT488: nan EMTR488: God, Si villages
+HMT489: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR489: Ameeen ya Allah EMT489: nan EMTR489: Ameeen ya Allah
+HMT490: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR490: Ameeeen yarabbil alamin dear, director muma asamu cikin addu'ar, Allah yabamu masu tsoron Allah EMT490: nan EMTR490: Ameeeen yarabbil alamin dear, director we are also in prayer, God bless the pious
+HMT491: Alhamdulillah, Masha Allah congratulations Allah ya sanya alkhairi da albarka a cikin auren ku ️… HMTR491: Ameen EMT491: nan EMTR491: Trustworthy
